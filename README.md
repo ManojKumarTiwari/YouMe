@@ -1,2 +1,2 @@
 # YouMe
-Anonymos chat app without login using firebase
+Anonymous chat app without login using firebase
