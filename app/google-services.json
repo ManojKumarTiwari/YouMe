@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "191240904181",
+    "firebase_url": "https://youme-843b5.firebaseio.com",
+    "project_id": "youme-843b5",
+    "storage_bucket": "youme-843b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191240904181:android:f3f3e3123f561892",
+        "android_client_info": {
+          "package_name": "com.theinfinitecoder.youme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191240904181-vh1l656bo3738fvupssm2atun71ioo17.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theinfinitecoder.youme",
+            "certificate_hash": "f594fd2219ef56bd844b2e9296a10ab80cf173a9"
+          }
+        },
+        {
+          "client_id": "191240904181-tgnolluk54uiuae2mh0l0875gk5gruhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhr5wHYjhQG4rNfszhz_yf4NFB61k0SgA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191240904181-tgnolluk54uiuae2mh0l0875gk5gruhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
